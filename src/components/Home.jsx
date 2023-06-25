@@ -14,12 +14,18 @@ const Home = () => {
           I'm a Computer Science Student at Dalhousie University
         </h2>
         <div className="py-3">
-          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
-            View Work
-            <span className="group-hover:rotate-90 duration-300">
-              <HiArrowNarrowRight className="ml-3" />
-            </span>
-          </button>
+          <a
+            href="https://github.com/Shaji-Mohammed?tab=repositories"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
+              View Work
+              <span className="group-hover:rotate-90 duration-300">
+                <HiArrowNarrowRight className="ml-3" />
+              </span>
+            </button>
+          </a>
         </div>
       </div>
     </div>
