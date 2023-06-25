@@ -20,7 +20,8 @@ const About = () => {
             <p>
               I'm passionate about building new and interesting software and
               applications. I specialize in creating websites, mobile and
-              desktop applications.
+              desktop applications. I'm currently looking for co-op/internship
+              oppertunities.
             </p>
           </div>
         </div>
